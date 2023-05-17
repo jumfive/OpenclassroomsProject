@@ -1,1 +1,2 @@
-tralala un fichier texte branché
+tralala un fichier texte branché.
+Branché une seconde fois.
